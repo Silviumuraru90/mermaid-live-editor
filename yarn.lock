@@ -182,8 +182,9 @@ accepts@~1.3.4, accepts@~1.3.5, accepts@~1.3.7:
     negotiator "0.6.2"
 
 acorn@^6.2.1:
-  version "6.4.0"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.4.0.tgz#b659d2ffbafa24baf5db1cdbb2c94a983ecd2784"
+  version "6.4.1"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.4.1.tgz#531e58ba3f51b9dacb9a6646ca4debf5b14ca474"
+  integrity sha512-ZVA9k326Nwrj3Cj9jlh3wGFutC2ZornPNARZwsNYqQYgN0EsV2d53w5RN/co65Ohn4sUAUtb1rSUAOD6XN9idA==
 
 ajv-errors@^1.0.0:
   version "1.0.1"
@@ -2398,10 +2399,10 @@ merge-descriptors@1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/merge-descriptors/-/merge-descriptors-1.0.1.tgz#b00aaa556dd8b44568150ec9d1b953f3f90cbb61"
 
-mermaid@8.4.7:
-  version "8.4.7"
-  resolved "https://registry.yarnpkg.com/mermaid/-/mermaid-8.4.7.tgz#1af8f6bece99f022a514471c42b80cabf7706501"
-  integrity sha512-mj4mefncBd8y921auvsXMN5MbVqzkrXyCUPz1AbVdQ+W6XKO27Oyqnor4ZO2hlqlosJc+Dl273V+SJBmX5PTNw==
+mermaid@8.4.8:
+  version "8.4.8"
+  resolved "https://registry.yarnpkg.com/mermaid/-/mermaid-8.4.8.tgz#8adcfdbc505d6bca52df167cff690427c9727b60"
+  integrity sha512-sumTNBFwMX7oMQgogdr3NhgTeQOiwcEsm23rQ4KHGW7tpmvMwER1S+1gjCSSnqlmM/zw7Ga7oesYCYicKboRwQ==
   dependencies:
     "@braintree/sanitize-url" "^3.1.0"
     crypto-random-string "^3.0.1"
